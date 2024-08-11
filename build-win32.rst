@@ -46,6 +46,7 @@ Type/paste
    mingw-w64-x86_64-zeromq mingw-w64-x86_64-glm zip \
    mingw-w64-x86_64-libgit2 mingw-w64-x86_64-oce mingw-w64-x86_64-cppzmq \
    mingw-w64-x86_64-podofo mingw-w64-x86_64-libarchive \
+   mingw-w64-x86_64-cppzmq \
    mingw-w64-x86_64-meson mingw-w64-x86_64-cmake --needed
 
 When prompted, just hit return. Sit back and wait for it to install
